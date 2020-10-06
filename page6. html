@@ -2,8 +2,13 @@
 <html>
 <head>
 <tittle>My shoping</tittle>
+</head>
 <body>
+<table>
+<tr>
 <a href=" https://www.myntra.com">myntra</a>
 <a href="https://www.myntra.com/dresses/cutecumber/cutecumber-girls-red--white-printed-fit-and-flare-dress/11427716/buy"> Dress</a>
+</tr>
+</table>
 </body>
 </html>
